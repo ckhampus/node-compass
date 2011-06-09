@@ -1,0 +1,16 @@
+{
+  "author": "Cristian Hampus <contact@cristianhampus.se>",
+  "name": "compass",
+  "description": "Compass middleware for ExpressJS.",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ckhampus/node-compass.git"
+  },
+  "main": "index",
+  "engines": {
+    "node": ">= 0.4.x"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
